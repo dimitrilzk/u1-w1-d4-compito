@@ -118,6 +118,11 @@ ol {
     margin-bottom: 10%;
 }
 /* TABELLE */
+caption {
+    text-align: center;
+    font-weight: 600;
+    font-style: italic;
+}
 
 /* FORM */
 

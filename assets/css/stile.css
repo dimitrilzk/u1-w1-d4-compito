@@ -37,6 +37,8 @@ header * {text-align: center;}
     margin-top: 10%;
     margin-bottom: 10%;
     text-transform: uppercase;
+    font-weight: 600;
+   font-stretch: extra-condensed;
 }
 
 .ul1 {
@@ -44,6 +46,8 @@ header * {text-align: center;}
     margin-top: 10%;
     margin-bottom: 10%;
     text-transform: uppercase;
+    font-weight: 600;
+    font-size: large;
 }
 
 .ul1 a {
@@ -55,7 +59,22 @@ header * {text-align: center;}
     line-height: 150%;
 }
 
+.hr1 {
+    clear: both;
+    border: 1px solid transparent;
+    height: 0px;
+}
 /* MAIN */
+main {
+    width: 90%;
+    height: 90%;
+    border: 1px solid;
+    color: #232322;
+    background: #FFFFFF;
+    margin: 4%;
+    padding: 4%;
+    
+}
 
 /* ELEMENTI NEL MAIN - ARTICLE */
 

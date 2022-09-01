@@ -191,5 +191,75 @@ button {
     border-color: rgb(95, 95, 255);
 }
 /* ELEMENTI NELL' ASIDE */
-
+.h2aside {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding-top: 5%;
+    margin-bottom: 5%;
+    line-height: 150%;
+}
+.d1 {
+    background-color:  rgb(214, 213, 213);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    line-height: 150%;
+}
+.d1 a {
+    color: rgb(35, 192, 209);
+}
+.d1 .paside1 {
+    text-align: right;
+} 
+.d2 {
+    background-color:  rgb(214, 213, 213);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    line-height: 150%;
+}
+.d2 a {
+    color: rgb(35, 192, 209);
+}
+.d2 .paside2 {
+    text-align: right;
+} 
+.d3 {
+    background-color:  rgb(214, 213, 213);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    line-height: 150%;
+}
+.d3 a {
+    color: rgb(35, 192, 209);
+}
+.d3 .paside3 {
+    text-align: right;
+} 
 /* FOOTER */
+.hrfooter {
+    clear: both;
+    border: 1px solid transparent;
+    height: 0px;
+}
+footer {
+    width: 90%;
+    height: 90%;
+    background-color: #1E4257;
+    display: inline-block;
+    margin: 4%;
+    padding: 4%;
+    box-sizing: border-box;
+}
+footer p {
+    text-align: center;
+    color: white;
+    padding-bottom: 5%;
+}
+footer address {
+    text-align: center;
+    color: white;
+}
+footer a {
+    color: rgb(125, 15, 119);
+    font-weight: 600;
+}

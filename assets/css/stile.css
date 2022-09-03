@@ -204,21 +204,38 @@ button {
     padding-top: 5%;
     padding-bottom: 5%;
     line-height: 150%;
+    border: 1px solid gray;
+    margin-bottom: 5%;
+}
+.d1 p {
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 5%;
 }
 .d1 a {
     color: rgb(35, 192, 209);
+    padding-left: 5%;
 }
 .d1 .paside1 {
     text-align: right;
+    padding-left: 5%;
 } 
 .d2 {
     background-color:  rgb(214, 213, 213);
     padding-top: 5%;
     padding-bottom: 5%;
     line-height: 150%;
+    border: 1px solid gray;
+    margin-bottom: 5%;
+}
+.d2 p {
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 5%;
 }
 .d2 a {
     color: rgb(35, 192, 209);
+    padding-left: 5%;
 }
 .d2 .paside2 {
     text-align: right;
@@ -228,9 +245,17 @@ button {
     padding-top: 5%;
     padding-bottom: 5%;
     line-height: 150%;
+    border: 1px solid gray;
+    margin-bottom: 5%;
+}
+.d3 p{
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 5%;
 }
 .d3 a {
     color: rgb(35, 192, 209);
+    padding-left: 5%;
 }
 .d3 .paside3 {
     text-align: right;
